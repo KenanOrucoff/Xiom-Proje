@@ -615,7 +615,9 @@
        text-align: center;
     }
     .button_3{
-        text-align: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
     }
     
     .image_text_3{
